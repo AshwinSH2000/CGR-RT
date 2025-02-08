@@ -1,0 +1,36 @@
+List of features in this rayracer:
+
+1. Basic Ray tracer features
+
+a. Image Writing: This has been implemented and it working as expected. It outputs the rendered image in a ppm file. 
+
+b. Virtual Pin hole camera: This has been implemented and is functioning properly. It is positioned at the vertices specified in the JSON file and looksAt the right vertices to capture the image.
+
+c. Intersection Tests: Yes, all three objects are detected accurately through the detection tests. These results are as shown in the TestSuite folder.
+
+d. Blinn-Phong shading: This has been implemented properly. When this shading is selected then all the given json files can be rendered in this mode. The results are as shown in the TestSuite folder.
+
+e. Shadows: Shadows have been implemented accurately. In the images with blinn-phong shading, shadows can be seen rightly projected. 
+
+f. ToneMapping: Yes, a simple function involving tonemapping is included and it works as expected. 
+
+g. Reflections: This feature has been demonstrated as expected. In the testsuite images, the scenes showing reflections are simple_phong_reflection.ppm and mirror_image_reflection.ppm. The objects in the scene clearly show reflections.
+
+h. Refractions: This feature has been implemented in the raytracer. However, since no objects given in the JSON files were refractive, it could not be shown in the testsuite images. Working on creating new JSON files to show Refractions. 
+
+
+2. Intermediate Ray tracer features
+
+a. Textures: This feature is implemented but I was not able to rectify all the errors before submission. Hence all the code in volving textures are commented out in the raytracer. 
+
+b. Acceleration Hierarchy: Yes, it has been implemented in the raytracer. It has brought down the rendering time sligltly. However the images still take around 5-15 seconds to render based on the complexity of the scene and the selected rendering mode (blinn-phong/binary).
+
+3. Advanced ray tracer features
+
+a. Pixel sampling - Not implemented
+
+b. Lens sampling - Not implemented
+
+c. BRDF sampling - Not implemented
+
+d. Light sampling - Not implemented
