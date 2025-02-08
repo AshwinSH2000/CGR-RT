@@ -14,7 +14,7 @@
 #include "Hittable.hpp"
 #include "HitRecord.hpp"
 #include "utility.hpp"
-// #include "Vector2.hpp"   //used for textures
+#include "Vector2.hpp"   //used for textures, not necessary for part1: basic ray tracing 
 #include <future>
 
 using Color = Vector3;
