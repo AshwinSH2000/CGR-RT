@@ -1,6 +1,5 @@
-ReadMe (the other ReadMe file is exactly the same but in rtf format. Provided both incase this does not open.)
-
-Thank you for opening this file!
+This repo consists of C++ code to implement a ray tracer. Part of CGR course at UoE. 
+All the required JSON files are present inside Code->Json
 
 1. To compile the c++ file, run the Makefile by typing    make  or    make raytracer
 
