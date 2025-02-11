@@ -23,5 +23,5 @@ All the required JSON files are present inside Code->Json
 
 Some sample images are as shown below:
 
-![basic binary rendering](https://github.com/AshwinSH2000/CGR-RT/blob/main/TestSuite/binary_primitives.ppm?raw=true)
-![simple phong rendering](https://github.com/AshwinSH2000/CGR-RT/blob/main/TestSuite/simple_phone.ppm?raw=true)
+![basic binary rendering](https://github.com/AshwinSH2000/CGR-RT/blob/main/TestSuite/binary_primitives.png?raw=true)
+![simple phong rendering](https://github.com/AshwinSH2000/CGR-RT/blob/main/TestSuite/simple_phone.png?raw=true)
