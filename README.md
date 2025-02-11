@@ -7,11 +7,11 @@ All the required JSON files are present inside Code->Json
 
 3. All the 4 given JSON files are in the same directory as the code.
 
-4. Execution code to copy
-        -    ./raytracer binary_primitives.json
-        -    ./raytracer simple_phong.json
-        -    ./raytracer scene.json
-        -    ./raytracer mirror_image.json
+4. Execution code to copy<br/>
+        -    ```./raytracer binary_primitives.json<br/>```
+        -    ./raytracer simple_phong.json<br/>
+        -    ./raytracer scene.json<br/>
+        -    ./raytracer mirror_image.json<br/>
 
 5. Once the json file in inputted, the program gives an opton to render the image in either using Blinn-Phong shading method or Normal Binary shading method.
 
