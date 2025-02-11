@@ -20,3 +20,8 @@ All the required JSON files are present inside Code->Json
 7. To render using normal binary shading, press 1
 
 8. It takes around 5 to 15 seconds to render based on the json file and the chosen mode
+
+Some sample images are as shown below:
+
+![alt text](https://github.com/AshwinSH2000/CGR-RT/blob/main/binary_primitives.ppm?raw=true)
+
